@@ -21,5 +21,5 @@ The result will be printed to `stdout`, as JSON.
 
 This code is a boiled-down version of [rcpedersen's stl-to-voxel](https://github.com/rcpedersen/stl-to-voxel) library, which translated these arrays into images or videos. Demo on the Stanford bunny below, for eye candy / posterity.
 
-![alt text](https://github.com/rcpedersen/stl-to-voxel/raw/master/stanford_bunny.png "STL version of the stanford bunny")
-![alt text](https://github.com/rcpedersen/stl-to-voxel/raw/master/stanford_bunny.gif "voxel version of the stanford bunny")
+![alt text](https://github.com/elsehow/stl-to-voxel/raw/master/stanford_bunny.png "STL version of the stanford bunny")
+![alt text](https://github.com/elsehow/stl-to-voxel/raw/master/stanford_bunny.gif "voxel version of the stanford bunny")
