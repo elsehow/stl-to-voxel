@@ -29,6 +29,7 @@ def arrayToWhiteGreyscalePixel(array, pixels):
         for j in range(array.shape[1]):
             if array[i, j]:
                 pixels[i, j] = 255
+    return pixels
 
 def padVoxelArray(voxels):
     shape = voxels.shape
