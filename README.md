@@ -5,7 +5,7 @@ Turn STL files into a three-dimensional array of boolean values.
 ## install
 
 ```
-git clone https://github.com/rcpedersen/stl-to-voxel.git
+git clone https://github.com/elsehow/stl-to-voxel.git
 ```
 
 You will need python3, and you will need to `pip3 install numpy` if you don't have numpy already.
